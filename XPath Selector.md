@@ -7,7 +7,7 @@
 ##### Select `input` tags
 
 ```xpath
-//inout
+//input
 ```
 
 ##### Select `a` tags that are direct children of the `p` tags
