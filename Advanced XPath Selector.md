@@ -28,3 +28,8 @@
 ```xpath
 //a[contains(@class, 'zcm__link')][following::a[@data-zci-link='news']]
 ```
+
+##### preceding-sibling and following-sibling
+```xpath
+//a[contains(@class, 'zcm__link')][following::a[@data-zci-link='news']]
+```
